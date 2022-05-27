@@ -1,14 +1,10 @@
-import Info from "./Info";
-import About from "./About";
-import Interests from "./Interests";
+import Main from "./Main";
 import Footer from "./Footer";
 
 export default function App() {
     return (
         <>
-            <Info />
-            <About />
-            <Interests />
+            <Main />
             <Footer />
         </>
     )
