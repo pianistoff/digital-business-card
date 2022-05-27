@@ -1,4 +1,4 @@
-export default const App = () => {
+export default function App() {
     return (
         <>
             
