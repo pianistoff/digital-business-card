@@ -7,6 +7,12 @@ body {
     background: #23252C;
 }
 
+.portrait {
+    max-width: 317px;
+    height: auto;
+    border-radius: 10px 10px 0px 0px;
+}
+
 .footer {
     height: 64px;
     background-color: #161619;
