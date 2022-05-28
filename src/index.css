@@ -6,7 +6,17 @@ body {
     margin: 0;
 }
 
-.footer > img {
+.footer {
+    height: 64px;
+    background-color: #161619;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0 35px;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.social-link {
     height: 25px;
     width: 25px;
 }
